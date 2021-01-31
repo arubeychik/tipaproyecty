@@ -1,0 +1,52 @@
+body {
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    background-image: URL(https://wallpaperaccess.com/full/111853.jpg);
+    font-family: 'Fraunces', 'serif';
+}
+
+h1{
+    font-size: 50px;
+    text-align: center;
+    width: 1100px;
+    margin: auto;
+    margin-bottom: 30px;
+}
+h2{
+    font-size: 50px;
+    text-align: center;
+    width: 1100px;
+    margin: auto;
+    margin-bottom: 30px;  
+}
+h3{font-size: 50px;
+    text-align: center;
+    width: 1100px;
+    margin: auto;
+    margin-bottom: 30px;  
+}
+h4{
+    font-size: 50px;
+    text-align: center;
+    width: 1100px;
+    margin: auto;
+    margin-bottom: 30px;      
+}
+h5{
+    font-size: 50px;
+    text-align: center;
+    width: 1100px;
+    margin: auto;
+    margin-bottom: 30px;      
+}    
+
+p{
+    font-size: 20px;
+    text-align: center;
+    width: 700px;
+    margin: auto;
+    margin-bottom: 30px;
+    padding: 5x;
+    background-color:#F86158;
+    transition:1s;
+}
